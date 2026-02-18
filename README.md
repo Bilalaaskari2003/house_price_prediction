@@ -6,9 +6,7 @@ Predict house prices using property features such as square footage, number of b
 ---
 
 ## Dataset Used
-- **Source:** [Kaggle – House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
-- **File:** `house_prices.csv`
-- **Size:** ~1,460 rows × 81 columns
+Synthetic Dataset — No Kaggle Required
 - **Target Variable:** `SalePrice` (continuous, in USD)
 
 Key features used:
@@ -59,8 +57,7 @@ Key features used:
 ## Project Structure
 
 ```
-├── house_price_prediction.ipynb    # Main Jupyter Notebook
-├── house_prices.csv                # Input dataset (download from Kaggle)
+├── house_price_prediction.ipynb    # Main Jupyter Notebook               
 └── README.md                       # This file
 ```
 
